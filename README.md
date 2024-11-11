@@ -22,5 +22,5 @@
 ### Començando os estudos em..
 
 <div style="display: inline_block"> <br>
-<img align =" center" alt="Node.JS" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white">
+<img align =" center" alt="Node.JS" width ="250px" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white">
 </div>
